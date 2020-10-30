@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/batsman"
+            android:title="Find Best Batsman" />
+        <item
+            android:id="@+id/bowler"
+            android:title="Find Best Bowler" />
+        <item
+            android:id="@+id/allrounder"
+            android:title="Find Best Allrounder"/>
+        <item
+            android:id="@+id/winner"
+            android:title="Winner Prediction" />
+        <item
+            android:id="@+id/about"
+            android:title="About us" />
+
+    </group>
+
+</menu>

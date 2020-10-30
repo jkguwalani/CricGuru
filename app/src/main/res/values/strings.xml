@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CRICKGURU</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="team1">Choose first team</string>
+    <string name="team2">Choose second team</string>
+    <string name="toss">Who have won the toss</string>
+    <string name="Battingfirst">Who is batting first</string>
+    <string name="result">Result</string>
+    <string name="team1forbat">Choose first team</string>
+    <string name="team2forbat">Choose second team</string>
+    <string name="team1forbowl">Choose first team</string>
+    <string name="team2forbowl">Choose second team</string>
+    <string name="findbowl">Find Best Bowler</string>
+    <string name="findbats">Find Best Batsman</string>
+</resources>
